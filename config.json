@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-with-pytest",
+      "title": "Test a FastAPI Task API with Pytest",
+      "description": "Write pytest tests for FastAPI endpoints, validation, and error handling",
+      "path": "assignments/testing-fastapi-with-pytest",
+      "dueDate": "2026-05-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test Skeleton",
+          "file": "test_api.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
